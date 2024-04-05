@@ -9,12 +9,12 @@
   "description": "",
   "icons": [
     {
-      "src": "/FlixPlus/flixplus192.jpeg",
+      "src": "/Alone-Devs/AD192p.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/FlixPlus/flixplusi512.jpeg",
+      "src": "/Alone-Devs/ad512px.png",
       "sizes": "512x512",
       "type": "image/png"
     }
